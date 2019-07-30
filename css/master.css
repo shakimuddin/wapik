@@ -1,0 +1,333 @@
+body {
+  font-weight: 100;
+}
+
+/* banner Started */
+.upper {
+  background: #2E6A6B url(../images/banner.jpg);
+  background-attachment: fixed;
+  background-size: cover;
+  background-blend-mode: darken;
+}
+
+.collapse {
+  font-size: 15px;
+}
+
+.navbar {
+  background-color: #58585800;
+  padding-bottom: 30px;
+}
+
+.nav-link {
+  text-transform: uppercase;
+  color: grey;
+}
+
+.nav-item {
+  padding-right: 10px;
+  padding-left: 10px;
+}
+
+.nav-link:hover {
+  color: #fff;
+}
+
+.last {
+  color: #fff;
+  background-color: grey;
+}
+
+.collapse .active {
+  color: #fff;
+}
+
+.collapse .last:hover {
+  -webkit-transition: all 0.5s ease-in-out;
+  transition: all 0.5s ease-in-out;
+  background-color: #58585800;
+  color: white;
+}
+
+.collapse .last:hover {
+  background-color: #58585800;
+  color: white;
+}
+
+.but-custom {
+  background-color: #6FAF48;
+  color: #fff;
+  border-radius: 0;
+}
+
+header a:hover {
+  border: 1px solid #6FB147;
+  transition: all 0.3s ease-in-out;
+  -webkit-transition: all 0.3s ease-in-out;
+  background-color: #58585800;
+  color: #fff !important;
+}
+
+/* banner finished */
+header .row {
+  min-height: 70vh;
+}
+
+header .banner-content {
+  color: #ffffff;
+}
+
+/* features Started */
+.features-section h2 {
+  color: #10605E;
+}
+
+.features-section p {
+  color: #83A7A5;
+}
+
+/* features  finished */
+/* three division started */
+.three-division h3 {
+  color: #10605E;
+}
+
+.three-division p {
+  color: #83A7A5;
+}
+
+/* three division finished */
+/* four images section started */
+.four-division h3 {
+  color: #10605E;
+}
+
+.four-division p {
+  color: #83A7A5;
+}
+
+/* four images section finished  */
+/* Responsive section  started */
+.responsive-row {
+  color: #568E8D;
+}
+
+/* Responsive section  started */
+.responsive-row {
+  color: #568E8D;
+}
+
+.responsive {
+  background-color: #EEF1EC;
+}
+
+.responsive h2 {
+  color: #226C69;
+}
+
+.responsive p {
+  color: #83A7A5;
+}
+
+/* Responsive section finished */
+.donna .image p {
+  font-size: 25px;
+  color: #8EAFAD;
+}
+
+.donna .image span {
+  color: #8EAFAD;
+}
+
+/* Map section started */
+.map {
+  background-color: #EEF1EC;
+}
+
+.map .content {
+  max-width: 60%;
+  height: 390px;
+}
+
+.image strong {
+  color: #7DB759;
+}
+
+.map h2 {
+  padding-left: 40%;
+  padding-bottom: 5px;
+  color: #10605E;
+}
+
+.map p {
+  color: #83A7A5;
+  padding-left: 40%;
+}
+
+/* Map section finished */
+/* Pricing section started */
+.Pricing h2 {
+  color: #10605E;
+}
+
+.Pricing p {
+  color: #83A7A5;
+}
+
+/* Pricing section finished */
+/* Table section Started */
+.table .row strong {
+  color: #10605E;
+  font-size: 65px;
+}
+
+.table .row span {
+  color: #10605E;
+}
+
+.table .row p {
+  color: #8AACAA;
+}
+
+.boh a {
+  text-decoration: none;
+  color: #98C67C;
+}
+
+.table .table-button {
+  color: #fff;
+  background-color: #83A7A5;
+}
+
+.table-button:hover {
+  -webkit-transition: all 0.5s ease-in-out;
+  transition: all 0.5s ease-in-out;
+  background-color: #75B34F;
+  color: #fff !important;
+}
+
+.table .border {
+  padding: 20px 0;
+}
+
+/* Table section finished */
+/* included center started  */
+.Included .plan h3 {
+  color: #10605E;
+}
+
+/* included center finished  */
+/* included plan row section started */
+.list ul li {
+  list-style: none;
+  color: #85A8A6;
+}
+
+/* included plan row section finished */
+/* help section started  */
+.help h1 {
+  color: #6FB048;
+}
+
+.help p {
+  color: #83A7A5;
+}
+
+.help .support a {
+  color: #10605E;
+  text-decoration: none;
+}
+
+/* help section finished  */
+/* download section started */
+.download h2 {
+  color: #10605E;
+}
+
+.download p {
+  color: #AEC4C0;
+}
+
+.download {
+  background: #fff url(../images/download.jpg);
+  background-attachment: fixed;
+  background-size: cover;
+}
+
+.download a {
+  background-color: #6FB147;
+  color: white;
+}
+
+.download a:hover {
+  border: 1px solid #6FB147;
+  -webkit-transition: all 0.3s ease-in-out;
+  transition: all 0.3s ease-in-out;
+  background-color: #58585800;
+  color: #6FB147;
+}
+
+/* download section finished */
+/* footer starded */
+footer ul {
+  list-style: none;
+      padding-inline-start:0px;
+}
+
+footer li strong {
+  color: #0F5F5D;
+}
+
+footer li a {
+  color: #83A7A5;
+}
+
+footer li a:hover {
+  color: #74B34E;
+}
+
+footer li p {
+  color: #83A7A5;
+}
+
+/* footer finished */
+/* social work section Started */
+.social-work .free a {
+  color: #6FB048;
+  text-decoration: none;
+}
+
+.social-work .free a:hover {
+  color: #55B1E6;
+}
+
+.social-work i {
+  font-size: 30px;
+  margin: 0 7px;
+}
+
+.social-work .icon {
+  display: flex;
+  float: right;
+}
+/* social work section finished */
+form {
+  border: 0px solid black;
+  background-color: #EFF1EC;
+  width: 225px;
+}
+
+form input {
+  border: 0;
+  background-color: transparent;
+  display: inline-block;
+}
+
+form button {
+  background-color: transparent;
+  border: 0;
+  font-size: 20px;
+  cursor: pointer;
+  color: #71A740;
+  display: inline-block;
+}
